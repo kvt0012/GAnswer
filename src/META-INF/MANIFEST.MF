@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: lib/jetty-all-9.0.4.v20130625.jar lib/json.jar lib/mysql-c
+ onnector-java-5.1.7-bin.jar lib/servlet-api-3.0.jar lib/lucene-2.0.0/
+ lucene-core-2.0.0.jar lib/maltparser-1.9.1/liblinear-1.8.jar lib/malt
+ parser-1.9.1/libsvm.jar lib/maltparser-1.9.1/log4j.jar lib/maltparser
+ -1.9.1/maltparser-1.9.1.jar lib/network/commons-codec-1.3.jar lib/net
+ work/commons-httpclient.jar lib/network/commons-logging.jar lib/stanf
+ ord-corenlp-full-2012-11-12/stanford-corenlp-1.3.4.jar lib/stanford-c
+ orenlp-full-2012-11-12/stanford-corenlp-1.3.4-models.jar lib/stanford
+ -corenlp-full-2012-11-12/xom.jar
+Main-Class: application.GanswerHttp
+
